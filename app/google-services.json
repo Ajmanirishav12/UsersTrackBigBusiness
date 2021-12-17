@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "474367473702",
+    "firebase_url": "https://bigbusiness-dev-default-rtdb.firebaseio.com",
+    "project_id": "bigbusiness-dev",
+    "storage_bucket": "bigbusiness-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474367473702:android:d56c90668ec997dc0d0ee7",
+        "android_client_info": {
+          "package_name": "com.BIG4U.bigbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474367473702-8tslt7v715j8t63ej48b9a0ec7h9se2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BIG4U.bigbusiness",
+            "certificate_hash": "878904dcf16252941fdcf30f429ae2e7270e597e"
+          }
+        },
+        {
+          "client_id": "474367473702-blv54jttpecq0dq07qgrtemg2slgrudf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMlE4dIXrJXXouR5IXtznAlmi5np4ufDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474367473702-blv54jttpecq0dq07qgrtemg2slgrudf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474367473702:android:d565229386ab761e0d0ee7",
+        "android_client_info": {
+          "package_name": "com.example.bigbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474367473702-blv54jttpecq0dq07qgrtemg2slgrudf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMlE4dIXrJXXouR5IXtznAlmi5np4ufDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474367473702-blv54jttpecq0dq07qgrtemg2slgrudf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474367473702:android:95053c2743b112420d0ee7",
+        "android_client_info": {
+          "package_name": "com.example.userstrackbigbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474367473702-blv54jttpecq0dq07qgrtemg2slgrudf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMlE4dIXrJXXouR5IXtznAlmi5np4ufDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474367473702-blv54jttpecq0dq07qgrtemg2slgrudf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

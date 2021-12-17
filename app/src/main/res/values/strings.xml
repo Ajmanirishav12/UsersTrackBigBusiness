@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsersTrackBigBusiness</string>
+    <string name="user_count">User   =</string>
+    <string name="employee_count">Employee  =</string>
+</resources>
